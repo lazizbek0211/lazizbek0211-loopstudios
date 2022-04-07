@@ -69,7 +69,7 @@ img{
     line-height: 25px;
     color: #FFFFFF;
     border-bottom: 2px solid transparent;
-    padding-bottom: 5px;
+    padding-bottom: 3px;
     transition: border-bottom 0.5s ease;
 }
 .nav-links:hover{
@@ -253,10 +253,16 @@ img{
     align-items: center;
     justify-content: space-between;
 }
-.socials {
+.icons {
+    transition: border-bottom 0.4s ease;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 3px;
+}
+.icons:hover{
+    border-bottom:2px solid #fff;
 }
 .icons:not(:last-child){
-    padding-right: 16px;
+    margin-right: 16px;
 }
 
 .footer-nav-list {
@@ -277,7 +283,9 @@ img{
     font-size: 15px;
     line-height: 25px;
     color: #FFFFFF;
+    
 }
+
 .footer-bottom{
     display: flex;
     justify-content: space-between;
