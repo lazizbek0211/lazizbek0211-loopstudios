@@ -323,4 +323,11 @@ img{
 }
 .rights{
     margin: 0;
+    font-family: 'Alata';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+color: #FFFFFF;
+opacity: 0.5;
 }
