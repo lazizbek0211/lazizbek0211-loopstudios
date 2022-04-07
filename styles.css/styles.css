@@ -61,7 +61,7 @@ img{
 }
 .nav-links {
     text-decoration: none;
-    font-family: 'Alata';
+    font-family: 'Alata' 'Josefin sans' "sans-serif";
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -82,7 +82,7 @@ img{
 }
 .site-hero-theme {
     margin-top: 130px;
-    font-family: 'Josefin Sans';
+    font-family: 'Josefin Sans' 'Alata' "sans-serif";
     font-style: normal;
     font-weight: 300;
     font-size: 72px;
@@ -108,7 +108,7 @@ img{
     margin-top: 183px;
 }
 .interactive-theme {
-    font-family: 'Josefin Sans';
+    font-family: 'Josefin Sans' 'Alata' "sans-serif";
     font-style: normal;
     font-weight: 300;
     font-size: 48px;
@@ -118,7 +118,7 @@ img{
     margin: 0;
 }
 .interactive-text {
-    font-family: 'Alata';
+    font-family: 'Alata' 'Josefin sans' "sans-serif";
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -140,7 +140,7 @@ img{
 
 .gallery {
     margin-right: auto;
-    font-family: 'Josefin Sans';
+    font-family: 'Josefin Sans' 'Alata' "sans-serif";
     font-style: normal;
     font-weight: 300;
     font-size: 48px;
@@ -150,7 +150,7 @@ img{
 }
 .more-links{
     text-decoration: none;
-    font-family: 'Alata';
+    font-family: 'Alata' 'Josefin sans' "sans-serif";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -187,7 +187,7 @@ img{
     background-color: #555;
 }
 .gallery-theme {
-    font-family: 'Josefin Sans';
+    font-family: 'Josefin Sans' 'Alata' "sans-serif";
     font-style: normal;
     font-weight: 300;
     font-size: 32px;
@@ -276,7 +276,7 @@ img{
     text-decoration: none;
     margin-right: 32px;
     display: inline-block;
-    font-family: 'Alata';
+    font-family: 'Alata' 'Josefin sans' "sans-serif";
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
