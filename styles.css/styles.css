@@ -50,6 +50,12 @@ img{
     height: 32px;
     
 }
+.site-logo:hover{
+    opacity: 0.8;
+}
+.site-logo:active{
+    opacity: 0.6;
+}
 
 .nav-list {
     display: flex;
@@ -180,8 +186,17 @@ img{
     margin-top: 30px;
     
 }
-.gallery-list-item-wrapper:not(:last-child){
+.card-link:not(:last-child){
     margin-right: 30px;
+}
+.card-link{
+    text-decoration: none;
+}
+.card-link:hover{
+    opacity: 0.8;
+}
+.card-link:active{
+    opacity: 0.6;
 }
 .gallery-list-item-wrapper {
     width: 256px;
@@ -252,6 +267,12 @@ img{
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+.site-footer-logo:hover{
+    opacity: 0.8;
+}
+.site-footer-logo:active{
+    opacity: 0.6;
 }
 .icons {
     transition: border-bottom 0.4s ease;
